@@ -12,7 +12,7 @@ let arrayReverseWord = arrayWord.reverse();
 let reverseWord = arrayReverseWord.join('');
 
 //Controllo parola palindroma
-if (reverseWord === word) 
+if (reverseWord === word)
     {
         console.log('La parola inserita è palindroma.');
     } else 
